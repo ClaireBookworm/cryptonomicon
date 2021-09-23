@@ -8,7 +8,7 @@ export default function Join() {
      <p className={styles.message}>Find the <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className={styles.csclub}>CS Club</a> at the Club Fair. <br />
 	Be there or be square.
 	<br />
-	We're watching...
+	We&apos;re watching...
 	</p>
     </div>
   )
